@@ -1,4 +1,4 @@
-#**Phenotypes and synonyms lexicon** 
+# **Phenotypes and synonyms lexicon** 
 
 **Resources:** 
 •	Human Phenotype Ontology (HPO)  
